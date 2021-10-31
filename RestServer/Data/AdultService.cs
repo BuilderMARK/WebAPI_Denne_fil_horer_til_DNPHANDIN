@@ -33,31 +33,31 @@ namespace RestServer.Data
                 new Adult
                 {
                     Id = 1,
-                    FirstName = "Siyu",
-                    LastName = "Xia",
+                    FirstName = "Lennart",
+                    LastName = "Segzi",
                     HairColor = "Black",
                     EyeColor = "Brown",
-                    Age = 21,
-                    Weight = 66,
+                    Age = 32,
+                    Weight = 73,
                     Height = 173,
                     Sex = "M",
                     JobTitle = "Student",
-                    Salary = 100
+                    Salary = 10000
                 },
 
                 new Adult
                 {
                     Id = 2,
-                    FirstName = "Baby",
-                    LastName = "Girl",
-                    HairColor = "Black",
+                    FirstName = "Mark",
+                    LastName = "Peder",
+                    HairColor = "OLOLL",
                     EyeColor = "Brown",
-                    Age = 1,
-                    Weight = 2,
-                    Height = 33,
-                    Sex = "F",
+                    Age = 109,
+                    Weight = 32,
+                    Height = 133,
+                    Sex = "M",
                     JobTitle = null,
-                    Salary = 0
+                    Salary = 1000000
                 },
             };
             adults = ad.ToList();
