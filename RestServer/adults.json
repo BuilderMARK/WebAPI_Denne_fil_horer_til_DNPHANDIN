@@ -1,0 +1,99 @@
+[
+  
+  {
+    "JobTitle": null,
+    "Id": 0,
+    "FirstName": "hej",
+    "LastName": "heje",
+    "HairColor": null,
+    "EyeColor": null,
+    "Age": 2,
+    "Weight": 0,
+    "Height": 0,
+    "Sex": null
+  },
+  {
+    "JobTitle": null,
+    "Id": 0,
+    "FirstName": "hej",
+    "LastName": "heje",
+    "HairColor": null,
+    "EyeColor": null,
+    "Age": 2,
+    "Weight": 0,
+    "Height": 0,
+    "Sex": null
+  },
+  {
+    "JobTitle": null,
+    "Id": 0,
+    "FirstName": "bom",
+    "LastName": "ji",
+    "HairColor": null,
+    "EyeColor": null,
+    "Age": 6,
+    "Weight": 0,
+    "Height": 0,
+    "Sex": null
+  },
+  {
+    "JobTitle": null,
+    "Id": 0,
+    "FirstName": "bom",
+    "LastName": "ji",
+    "HairColor": null,
+    "EyeColor": null,
+    "Age": 6,
+    "Weight": 0,
+    "Height": 0,
+    "Sex": null
+  },
+  {
+    "JobTitle": null,
+    "Id": 0,
+    "FirstName": "Lennart",
+    "LastName": "Peter",
+    "HairColor": "green",
+    "EyeColor": "blue",
+    "Age": 27,
+    "Weight": 0,
+    "Height": 174,
+    "Sex": "M"
+  },
+  {
+    "JobTitle": null,
+    "Id": 0,
+    "FirstName": "Lennart",
+    "LastName": "Peter",
+    "HairColor": "green",
+    "EyeColor": "blue",
+    "Age": 27,
+    "Weight": 0,
+    "Height": 174,
+    "Sex": "M"
+  },
+  {
+    "JobTitle": null,
+    "Id": 0,
+    "FirstName": "peter",
+    "LastName": "tro",
+    "HairColor": "yelow",
+    "EyeColor": "green",
+    "Age": 1,
+    "Weight": 0,
+    "Height": 1,
+    "Sex": "f"
+  },
+  {
+    "JobTitle": null,
+    "Id": 0,
+    "FirstName": "peter",
+    "LastName": "tro",
+    "HairColor": "yelow",
+    "EyeColor": "green",
+    "Age": 1,
+    "Weight": 0,
+    "Height": 1,
+    "Sex": "f"
+  }
+]
